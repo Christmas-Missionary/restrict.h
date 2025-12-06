@@ -153,3 +153,5 @@ todo
 a
 asm
 test.cpp
+test.s
+test.asm
